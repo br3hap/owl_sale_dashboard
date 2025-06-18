@@ -25,7 +25,7 @@ Este módulo depende de los siguientes módulos estándar de Odoo:
 
 ## 🖼️ Vista previa
 
-> (Opcional) Puedes incluir aquí una imagen tipo screenshot mostrando cómo se ven las tarjetas en la vista lista.
+![alt text](static/img/img.png)
 
 ## 🛠 Archivos incluidos
 
