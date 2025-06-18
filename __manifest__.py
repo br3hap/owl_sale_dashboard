@@ -2,7 +2,7 @@
 {
     'name': 'Ventas Dashboard / Vista de tarjetas',
     'version': '1.0',
-    'summary': """ Módulo que permite ver indicadores como tarjetas de ventas en la vista lista """,
+    'summary': """ Módulo que permite ver indicadores como tarjetas de ventas en la vista lista - odoo 18""",
     'author': 'Breithner Aquituari',
     'website': '',
     'category': 'Sale',

@@ -7,7 +7,6 @@
                     <div class="bg-white shadow-md rounded-2xl p-6">
                         <h2 class="text-lg font-semibold text-gray-700">Ventas Hoy</h2>
                         <p class="text-3xl font-bold text-blue-600 mt-2">
-                            <!-- <t t-out="saleData['order_today']"/> -->
                             <t t-out="state.saleData?.order_today || 0"/>
                         </p>
                     </div>
@@ -15,7 +14,6 @@
                     <div class="bg-white shadow-md rounded-2xl p-6">
                         <h2 class="text-lg font-semibold text-gray-700">Total clientes</h2>
                         <p class="text-3xl font-bold text-green-600 mt-2">
-                            <!-- <t t-out="saleData['total_customer']"/> -->
                             <t t-out="state.saleData?.total_customer || 0"/>
                         </p>
                     </div>
